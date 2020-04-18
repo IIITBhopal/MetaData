@@ -20,14 +20,14 @@ Be respectful in the comments and your interaction with other members of this In
 We all have our problems and are limited in a sense, thus we should be kind to our fellow developers
 in helping them out with their questions and queries about stuff you know better.
 
-In the interest of fostering an open research and collaborative environment, we members pledge to make
+In the interest of fostering open research and collaborative environment, we members pledge to make
 participation in our projects and community a harassment-free experience for everyone.
 
 Knowledge and code sharing should and will be our utmost priority.
 
 And cool reception of any form of constructive criticism is advised.
 
-Any unobservance of the above principle can and will cause an expulsion from the Insitute's open source programs.
+Any unobservance of the above principles can and will cause expulsion from the Insitute's open-source programs.
 
 # Contribution Guide
 

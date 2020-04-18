@@ -27,7 +27,7 @@ Knowledge and code sharing should and will be our utmost priority.
 
 And cool reception of any form of constructive criticism is advised.
 
-Any unobservance of the above principle can and will cause an expulsion from the Insitute's open source programs.
+Any unobservance of the above principle can and will cause an expulsion from the Insitute's open-source programs.
 
 # Contribution Guide
 

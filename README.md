@@ -1,15 +1,15 @@
 # MetaData
 Data about data :)
 
-This repository contains the data about the Institute's activity and presence in github.
+This repository contains the data about the Institute's activity and presence in GitHub.
 
 It is also meant to be a guide and introduction forum for the members.
 
 # Objectives
 
-The objective of the Institute's open source programs is to foster the coding culture in the institute and
+The objective of the Institute's open-source programs is to foster the coding culture in the institute and
 thereby produce excellent pieces of code as a by-product which would prove to be useful to the larger community
-of open source software.
+of open-source software.
 
 Further objectives regarding the projects can be found in the Objectives directory (to be uploaded) of this repository.
 
